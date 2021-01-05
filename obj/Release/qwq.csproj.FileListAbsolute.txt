@@ -1,0 +1,12 @@
+D:\qwq\bin\Release\qwq.exe.config
+D:\qwq\bin\Release\qwq.exe
+D:\qwq\bin\Release\qwq.pdb
+D:\qwq\obj\Release\qwq.csprojAssemblyReference.cache
+D:\qwq\obj\Release\qwq.Form1.resources
+D:\qwq\obj\Release\qwq.Form2.resources
+D:\qwq\obj\Release\qwq.Form3.resources
+D:\qwq\obj\Release\qwq.Properties.Resources.resources
+D:\qwq\obj\Release\qwq.csproj.GenerateResource.cache
+D:\qwq\obj\Release\qwq.csproj.CoreCompileInputs.cache
+D:\qwq\obj\Release\qwq.exe
+D:\qwq\obj\Release\qwq.pdb

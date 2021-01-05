@@ -10,3 +10,15 @@ D:\Visual Studio\Projects\qwq\obj\Debug\qwq.exe
 D:\Visual Studio\Projects\qwq\obj\Debug\qwq.pdb
 D:\Visual Studio\Projects\qwq\obj\Debug\qwq.Form2.resources
 D:\Visual Studio\Projects\qwq\obj\Debug\qwq.Form3.resources
+D:\qwq\bin\Debug\qwq.exe.config
+D:\qwq\bin\Debug\qwq.exe
+D:\qwq\bin\Debug\qwq.pdb
+D:\qwq\obj\Debug\qwq.csprojAssemblyReference.cache
+D:\qwq\obj\Debug\qwq.Form1.resources
+D:\qwq\obj\Debug\qwq.Form2.resources
+D:\qwq\obj\Debug\qwq.Form3.resources
+D:\qwq\obj\Debug\qwq.Properties.Resources.resources
+D:\qwq\obj\Debug\qwq.csproj.GenerateResource.cache
+D:\qwq\obj\Debug\qwq.csproj.CoreCompileInputs.cache
+D:\qwq\obj\Debug\qwq.exe
+D:\qwq\obj\Debug\qwq.pdb
