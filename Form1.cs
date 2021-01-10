@@ -9,6 +9,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
 using System.Threading;
+using System.IO;
+using System.Text;
 
 namespace qwq
 {
@@ -62,6 +64,14 @@ namespace qwq
             InitializeComponent();
             Control.CheckForIllegalCrossThreadCalls = false;
             current = this.Handle;
+
+            //读文件
+            //StreamReader sr = new StreamReader("data.txt", Encoding.Default);
+            //String line;
+            //while ((line = sr.ReadLine()) != null)
+            //{
+            //    Console.WriteLine(line.ToString());
+            //}
             ToolTip p1 = new ToolTip();
             p1.ShowAlways = true;
             p1.SetToolTip(this.button1, "开心");
