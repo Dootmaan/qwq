@@ -240,7 +240,7 @@ namespace qwq
 
         private void ExitToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            System.Environment.Exit(0);
         }
 
         private void CreditToolStripMenuItem_Click(object sender, EventArgs e)
